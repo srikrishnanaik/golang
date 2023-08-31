@@ -1,0 +1,12 @@
+go 1.20
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+	./06mytime
+	./07mypointers
+	./08myarray
+	./09myslices
+)
